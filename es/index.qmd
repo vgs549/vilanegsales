@@ -22,15 +22,6 @@ Estudio cómo el cambio climático afecta a las economías y comunidades costera
 
 Actualmente, lidero el paquete de trabajo de ciencia de datos del proyecto STEPS en el ZMT, utilizando procesamiento de lenguaje natural y aprendizaje automático para analizar cómo las políticas turísticas abordan la protección de ecosistemas en países costeros tropicales.
 
-::: {.quick-links}
-[Sobre mí](../about.qmd)
-[Investigación](../research.qmd)
-[Proyectos](../projects.qmd)
-[Blog](../blog/index.qmd)
-[CV](../cv.qmd)
-[Contacto](../contact.qmd)
-:::
-
 :::
 
 ::::

@@ -22,15 +22,6 @@ Studio come i cambiamenti climatici influenzano le economie e le comunità costi
 
 Attualmente dirigo il pacchetto di lavoro di data science del progetto STEPS presso lo ZMT, utilizzando l'elaborazione del linguaggio naturale e il machine learning per analizzare come le politiche turistiche affrontano la protezione degli ecosistemi nei paesi costieri tropicali.
 
-::: {.quick-links}
-[Chi sono](../about.qmd)
-[Ricerca](../research.qmd)
-[Progetti](../projects.qmd)
-[Blog](../blog/index.qmd)
-[CV](../cv.qmd)
-[Contatti](../contact.qmd)
-:::
-
 :::
 
 ::::

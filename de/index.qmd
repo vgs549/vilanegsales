@@ -22,15 +22,6 @@ Ich erforsche, wie der Klimawandel Küstenwirtschaften und -gemeinden beeinfluss
 
 Derzeit leite ich das Data-Science-Arbeitspaket des STEPS-Projekts am ZMT. Dabei nutze ich Natural Language Processing und maschinelles Lernen, um zu analysieren, wie Tourismuspolitiken den Schutz von Ökosystemen in tropischen Küstenländern berücksichtigen.
 
-::: {.quick-links}
-[Über mich](../about.qmd)
-[Forschung](../research.qmd)
-[Projekte](../projects.qmd)
-[Blog](../blog/index.qmd)
-[CV](../cv.qmd)
-[Kontakt](../contact.qmd)
-:::
-
 :::
 
 ::::

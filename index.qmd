@@ -21,15 +21,6 @@ I study how climate change affects coastal economies and communities — and wha
 
 Currently, I lead the data science work package of the STEPS project at ZMT, using NLP and machine learning to analyze how tourism policies address ecosystem protection in tropical coastal countries.
 
-::: {.quick-links}
-[About](about.qmd)
-[Research](research.qmd)
-[Projects](projects.qmd)
-[Blog](blog/index.qmd)
-[CV](cv.qmd)
-[Contact](contact.qmd)
-:::
-
 :::
 
 ::::
