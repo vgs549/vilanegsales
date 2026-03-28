@@ -12,7 +12,7 @@ title: "Research"
 ## Working Papers & Under Review
 
 ::: {.pub-entry}
-[Sales, V.G.]{.pub-title} (2026). "Divergent Risk Patterns across Coastal Hospitality Sectors in the Northern Adriatic." Submitted to [*Oxford Research Encyclopedia of Economics and Finance*]{.pub-journal}.
+[Sales, V.G.]{.pub-title} (2026). "Divergent Risk Patterns across Coastal Hospitality Sectors in the Northern Adriatic." Submitted to [*Open Research Europe*]{.pub-journal}.
 :::
 
 ::: {.pub-entry}
