@@ -1,0 +1,20 @@
+---
+title: "CV"
+---
+
+A full version of my CV is available for download below.
+
+{{< downloadthis Vilane_Goncalves_Sales_CV.pdf label="Download CV (PDF)" type="primary" >}}
+
+---
+
+## Summary
+
+| | |
+|---|---|
+| **Current Position** | Postdoctoral Researcher, Leibniz Centre for Tropical Marine Research (ZMT), Bremen |
+| **Research Areas** | Environmental Economics, Climate Vulnerability, Coastal Systems, Sustainable Tourism, NLP |
+| **PhD** | University of Birmingham, UK (2019) |
+| **Fellowships** | Marie Skłodowska-Curie (2023–2025), CAPES PhD Abroad (2015–2019) |
+
+For a complete list of publications, teaching, supervision, and professional activities, please [download the full CV](Vilane_Goncalves_Sales_CV.pdf).

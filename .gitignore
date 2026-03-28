@@ -1,0 +1,9 @@
+/.quarto/
+/docs/
+/_site/
+*.html
+!.github/
+.Rproj.user
+.Rhistory
+.DS_Store
+Thumbs.db

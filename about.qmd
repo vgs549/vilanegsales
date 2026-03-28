@@ -1,0 +1,30 @@
+---
+title: "About"
+---
+
+I am an environmental economist specializing in climate vulnerability, coastal systems, and sustainable tourism. My research uses applied microeconometrics, spatial analysis, and computational methods (NLP, machine learning, remote sensing) to understand how climate change impacts coastal economies and to evaluate adaptation policies.
+
+## Current Position
+
+Since August 2025, I am a postdoctoral researcher at the **Leibniz Centre for Tropical Marine Research (ZMT)** in Bremen, Germany, where I lead the data science work package (WP01) of the STEPS project on sustainable tourism.
+
+## Previous Positions
+
+Before joining ZMT, I held a **Marie Skłodowska-Curie Postdoctoral Fellowship** (SEA-LIMITHS project) at Ca' Foscari University of Venice and the CMCC Foundation (2023–2025), where I investigated the economic impacts of sea-level rise on Italy's coastal hospitality sector.
+
+Prior to that, I was a postdoctoral researcher at the **Oeschger Centre for Climate Change Research, University of Bern** (2019–2023), working on environmental econometrics, disaster risk, and extreme value theory.
+
+## Education
+
+- **PhD in Economics** — University of Birmingham, UK (2015–2019)
+- **MPhil in Management and Rural Development** — Universidade Federal Rural de Pernambuco, Brazil (2013–2015)
+- **BA in Economics** — Universidade Federal Rural de Pernambuco, Brazil (2008–2012)
+
+## Affiliations
+
+- [Earth System Governance Project](https://www.earthsystemgovernance.org/) — Research Fellow
+- [COST Action CA22122 RethinkBlue](https://www.cost.eu/actions/CA22122/) — Working Group 5: Climate Change & Natural Hazards
+- [European Geosciences Union (EGU)](https://www.egu.eu/) — Member
+- [Italian Association of Environmental and Resource Economists (IAERE)](https://www.iaere.org/) — Member
+- [Future Earth](https://futureearth.org/) — Member
+- [Marie Curie Alumni Association (MCAA)](https://www.mariecuriealumni.eu/) — Member

@@ -1,0 +1,36 @@
+---
+title: "Dr. Vilane Gonçalves Sales"
+description: "Umweltökonomin | Klimavulnerabilität, Küstensysteme und Nachhaltiger Tourismus"
+image: ../images/Profile_Picture.jpg
+page-layout: full
+lang: de
+---
+
+![](../images/Banner.png){.hero-banner fig-alt="Aquarell-Banner einer tropischen Küstenlandschaft"}
+
+:::: {.home-intro}
+
+![](../images/Profile_Picture.jpg){.profile-photo fig-alt="Dr. Vilane Gonçalves Sales"}
+
+::: {.intro-text}
+
+## Postdoktorandin
+
+**Leibniz-Zentrum für Marine Tropenforschung (ZMT), Bremen**
+
+Ich erforsche, wie der Klimawandel Küstenwirtschaften und -gemeinden beeinflusst — und welche politischen Maßnahmen bei der Anpassung helfen können. Meine Arbeit verbindet Umweltökonomie, Data Science und Klimarisikoanalyse, um die Lücke zwischen Forschung und Politik zu schließen.
+
+Derzeit leite ich das Data-Science-Arbeitspaket des STEPS-Projekts am ZMT. Dabei nutze ich Natural Language Processing und maschinelles Lernen, um zu analysieren, wie Tourismuspolitiken den Schutz von Ökosystemen in tropischen Küstenländern berücksichtigen.
+
+::: {.quick-links}
+[Über mich](../about.qmd)
+[Forschung](../research.qmd)
+[Projekte](../projects.qmd)
+[Blog](../blog/index.qmd)
+[CV](../cv.qmd)
+[Kontakt](../contact.qmd)
+:::
+
+:::
+
+::::

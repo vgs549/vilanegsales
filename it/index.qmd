@@ -1,0 +1,36 @@
+---
+title: "Dott.ssa Vilane Gonçalves Sales"
+description: "Economista Ambientale | Vulnerabilità Climatica, Sistemi Costieri e Turismo Sostenibile"
+image: ../images/Profile_Picture.jpg
+page-layout: full
+lang: it
+---
+
+![](../images/Banner.png){.hero-banner fig-alt="Banner acquerello di paesaggio costiero tropicale"}
+
+:::: {.home-intro}
+
+![](../images/Profile_Picture.jpg){.profile-photo fig-alt="Dott.ssa Vilane Gonçalves Sales"}
+
+::: {.intro-text}
+
+## Ricercatrice Post-Dottorato
+
+**Leibniz Centre for Tropical Marine Research (ZMT), Brema**
+
+Studio come i cambiamenti climatici influenzano le economie e le comunità costiere — e quali politiche possono aiutarle ad adattarsi. Il mio lavoro combina economia ambientale, data science e analisi del rischio climatico per colmare il divario tra ricerca e politica pubblica.
+
+Attualmente dirigo il pacchetto di lavoro di data science del progetto STEPS presso lo ZMT, utilizzando l'elaborazione del linguaggio naturale e il machine learning per analizzare come le politiche turistiche affrontano la protezione degli ecosistemi nei paesi costieri tropicali.
+
+::: {.quick-links}
+[Chi sono](../about.qmd)
+[Ricerca](../research.qmd)
+[Progetti](../projects.qmd)
+[Blog](../blog/index.qmd)
+[CV](../cv.qmd)
+[Contatti](../contact.qmd)
+:::
+
+:::
+
+::::
