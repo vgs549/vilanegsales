@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "Dr. Vilane Gonçalves Sales"
+  title: ""
   description: "Environmental Economist | Climate Vulnerability, Coastal Systems & Sustainable Tourism"
   site-url: https://vgs549.github.io/vilanegsales/
   favicon: images/Profile_Picture.jpg
@@ -15,7 +15,7 @@ website:
   twitter-card: true
 
   navbar:
-    background: dark
+    background: light
     logo: images/Profile_Picture.jpg
     left:
       - href: index.qmd
@@ -46,7 +46,7 @@ website:
           - text: Deutsch
             href: de/index.qmd
       - icon: google
-        href: https://scholar.google.com/citations?user=PLACEHOLDER
+        href: https://scholar.google.com/citations?user=mL2jpAsAAAAJ
         aria-label: Google Scholar
       - icon: github
         href: https://github.com/vgs549

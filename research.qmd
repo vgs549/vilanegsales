@@ -9,6 +9,16 @@ title: "Research"
 - **Coastal & marine systems** — Sea-level rise impacts, disaster risk quantification, coastal infrastructure vulnerability
 - **Computational methods** — NLP, machine learning, remote sensing, spatial econometrics, extreme value theory
 
+## Working Papers & Under Review
+
+::: {.pub-entry}
+[Sales, V.G.]{.pub-title} (2026). "Divergent Risk Patterns across Coastal Hospitality Sectors in the Northern Adriatic." Submitted to [*Oxford Research Encyclopedia of Economics and Finance*]{.pub-journal}.
+:::
+
+::: {.pub-entry}
+[Sales, V.G. & Fujitani, M.]{.pub-title} (2026). "Do Disasters Speak Louder than Hazard Exposure? Tourism Policy and Ecosystem Protection in Coastal Destinations." Presented at [*EGU General Assembly 2026*]{.pub-journal}, Vienna. [EGU26-7631](https://doi.org/10.5194/egusphere-egu26-7631)
+:::
+
 ## Selected Publications
 
 ### 2025
@@ -39,6 +49,6 @@ title: "Research"
 
 ## Profiles
 
-- [Google Scholar](https://scholar.google.com/citations?user=PLACEHOLDER)
+- [Google Scholar](https://scholar.google.com/citations?user=mL2jpAsAAAAJ)
 - [ORCID: 0000-0003-0627-0872](https://orcid.org/0000-0003-0627-0872)
 - [ResearchGate](https://www.researchgate.net/profile/Vilane-Sales)
