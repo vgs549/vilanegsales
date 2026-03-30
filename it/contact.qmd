@@ -1,0 +1,25 @@
+---
+title: "Contatti"
+lang: it
+---
+
+## Contatti
+
+**Dott.ssa Vilane Gonçalves Sales**
+Ricercatrice Post-Dottorato
+Leibniz Centre for Tropical Marine Research (ZMT)
+Fahrenheitstraße 6, 28359 Brema, Germania
+
+**Email:** [vilane.goncalves.sales@leibniz-zmt.de](mailto:vilane.goncalves.sales@leibniz-zmt.de)
+
+## Profili Online
+
+- [Google Scholar](https://scholar.google.com/citations?user=mL2jpAsAAAAJ)
+- [ORCID: 0000-0003-0627-0872](https://orcid.org/0000-0003-0627-0872)
+- [ResearchGate](https://www.researchgate.net/profile/Vilane-Sales)
+- [LinkedIn](https://www.linkedin.com/in/vilanegsales/)
+- [GitHub](https://github.com/vgs549)
+
+## Pagina Istituzionale
+
+- [Profilo ZMT](https://www.leibniz-zmt.de/)

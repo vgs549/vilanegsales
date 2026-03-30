@@ -1,0 +1,31 @@
+---
+title: "Sobre mí"
+lang: es
+---
+
+Soy economista ambiental especializada en vulnerabilidad climática, sistemas costeros y turismo sostenible. Mi investigación utiliza microeconometría aplicada, análisis espacial y métodos computacionales (PLN, aprendizaje automático, teledetección) para comprender cómo el cambio climático impacta las economías costeras y evaluar políticas de adaptación.
+
+## Posición Actual
+
+Desde agosto de 2025, soy investigadora postdoctoral en el **Leibniz Centre for Tropical Marine Research (ZMT)** en Bremen, Alemania, donde lidero el paquete de trabajo de ciencia de datos (WP01) del proyecto STEPS sobre turismo sostenible.
+
+## Posiciones Anteriores
+
+Antes de incorporarme al ZMT, fui becaria postdoctoral **Marie Skłodowska-Curie** (proyecto SEA-LIMITHS) en la Università Ca' Foscari di Venezia y la Fundación CMCC (2023–2025), donde investigué los impactos económicos de la subida del nivel del mar en el sector hotelero costero de Italia.
+
+Anteriormente, fui investigadora postdoctoral en el **Oeschger Centre for Climate Change Research, Universidad de Berna** (2019–2023), trabajando en econometría ambiental, riesgo de desastres y teoría de valores extremos.
+
+## Formación
+
+- **Doctorado en Economía** — University of Birmingham, Reino Unido (2015–2019)
+- **Máster en Administración y Desarrollo Rural** — Universidade Federal Rural de Pernambuco, Brasil (2013–2015)
+- **Licenciatura en Economía** — Universidade Federal Rural de Pernambuco, Brasil (2008–2012)
+
+## Afiliaciones
+
+- [Earth System Governance Project](https://www.earthsystemgovernance.org/) — Research Fellow
+- [COST Action CA22122 RethinkBlue](https://www.cost.eu/actions/CA22122/) — Grupo de Trabajo 5: Cambio Climático y Riesgos Naturales
+- [European Geosciences Union (EGU)](https://www.egu.eu/) — Miembro
+- [Italian Association of Environmental and Resource Economists (IAERE)](https://www.iaere.org/) — Miembro
+- [Future Earth](https://futureearth.org/) — Miembro
+- [Marie Curie Alumni Association (MCAA)](https://www.mariecuriealumni.eu/) — Miembro

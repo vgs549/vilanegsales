@@ -1,0 +1,31 @@
+---
+title: "Projekte"
+lang: de
+---
+
+## Aktuell
+
+### STEPS — Strategien für Nachhaltigen Tourismus und Ökosystemschutz
+**Leibniz-Zentrum für Marine Tropenforschung (ZMT)** | 2025–heute
+
+Leitung des Arbeitspakets 01 — Anwendung von NLP und maschinellem Lernen zur Analyse von Politikänderungen im nachhaltigen Tourismus in tropischen Küstendestinationen. Untersuchung, wie Länder den Tourismus nach der Pandemie unter dem Blickwinkel des Ökosystemschutzes neu gestalten.
+
+Ich entwickelte den Tourism Ecosystem Protection Index (TEPI), ein NLP-basiertes Maß, das bewertet, wie Tourismuspolitiken den Schutz von Ökosystemen artikulieren. Ein zentrales Ergebnis ist, dass die Aufmerksamkeit der Tourismuspolitik für Ökosysteme eher durch Katastrophenerfahrung als durch Risikowahrnehmung getrieben zu sein scheint.
+
+---
+
+## Abgeschlossen
+
+### SEA-LIMITHS — Auswirkungen des Meeresspiegelanstiegs auf den Tourismus- und Gastgewerbesektor
+**Marie Skłodowska-Curie Postdoc-Stipendium** | Università Ca' Foscari di Venezia und CMCC-Stiftung | 2023–2025
+
+Leitung eines interdisziplinären Projekts zu den wirtschaftlichen Auswirkungen des Meeresspiegelanstiegs auf den küstennahen Gastgewerbesektor Italiens. Aufbau einer georeferenzierten Datenbank mit über 10.000 Küstenbetrieben unter Integration von Fernerkundung, KI-Klassifizierung und Wirtschaftsdaten. Anwendung räumlicher Analyse, maschinellen Lernens und CGE-Modellierung zur Schätzung von Vulnerabilität und Anpassungskosten.
+
+Europäische Kommission, Grant Nr. 101106544.
+
+**Ergebnisse:**
+
+- Open-Access-Datenbank auf [Zenodo](https://zenodo.org/)
+- Replikationscode auf [GitHub](https://github.com/vgs549)
+- Buchkapitel in *Sea Level Rise: Implications for Human Rights, Security, and Peace* (Palgrave Macmillan, 2025)
+- Datenbeschreibung in *Data in Brief* (2025)

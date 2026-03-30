@@ -1,0 +1,31 @@
+---
+title: "Über mich"
+lang: de
+---
+
+Ich bin Umweltökonomin mit Schwerpunkt auf Klimavulnerabilität, Küstensystemen und nachhaltigem Tourismus. Meine Forschung nutzt angewandte Mikroökonometrie, räumliche Analyse und computergestützte Methoden (NLP, maschinelles Lernen, Fernerkundung), um zu verstehen, wie der Klimawandel Küstenwirtschaften beeinflusst, und um Anpassungspolitiken zu bewerten.
+
+## Aktuelle Position
+
+Seit August 2025 bin ich Postdoktorandin am **Leibniz-Zentrum für Marine Tropenforschung (ZMT)** in Bremen, wo ich das Data-Science-Arbeitspaket (WP01) des STEPS-Projekts zu nachhaltigem Tourismus leite.
+
+## Frühere Positionen
+
+Vor meinem Eintritt am ZMT war ich **Marie Skłodowska-Curie Postdoc-Stipendiatin** (Projekt SEA-LIMITHS) an der Università Ca' Foscari di Venezia und der CMCC-Stiftung (2023–2025), wo ich die wirtschaftlichen Auswirkungen des Meeresspiegelanstiegs auf den küstennahen Gastgewerbesektor Italiens untersuchte.
+
+Davor war ich Postdoktorandin am **Oeschger Centre for Climate Change Research, Universität Bern** (2019–2023), mit Schwerpunkt auf Umweltökonometrie, Katastrophenrisiko und Extremwerttheorie.
+
+## Ausbildung
+
+- **PhD in Volkswirtschaftslehre** — University of Birmingham, Großbritannien (2015–2019)
+- **Master in Management und ländliche Entwicklung** — Universidade Federal Rural de Pernambuco, Brasilien (2013–2015)
+- **Bachelor in Volkswirtschaftslehre** — Universidade Federal Rural de Pernambuco, Brasilien (2008–2012)
+
+## Mitgliedschaften
+
+- [Earth System Governance Project](https://www.earthsystemgovernance.org/) — Research Fellow
+- [COST Action CA22122 RethinkBlue](https://www.cost.eu/actions/CA22122/) — Arbeitsgruppe 5: Klimawandel und Naturgefahren
+- [European Geosciences Union (EGU)](https://www.egu.eu/) — Mitglied
+- [Italian Association of Environmental and Resource Economists (IAERE)](https://www.iaere.org/) — Mitglied
+- [Future Earth](https://futureearth.org/) — Mitglied
+- [Marie Curie Alumni Association (MCAA)](https://www.mariecuriealumni.eu/) — Mitglied

@@ -1,0 +1,31 @@
+---
+title: "Chi sono"
+lang: it
+---
+
+Sono un'economista ambientale specializzata in vulnerabilità climatica, sistemi costieri e turismo sostenibile. La mia ricerca utilizza microeconometria applicata, analisi spaziale e metodi computazionali (NLP, machine learning, telerilevamento) per comprendere come i cambiamenti climatici influenzano le economie costiere e per valutare le politiche di adattamento.
+
+## Posizione Attuale
+
+Da agosto 2025 sono ricercatrice post-dottorato presso il **Leibniz Centre for Tropical Marine Research (ZMT)** a Brema, Germania, dove dirigo il pacchetto di lavoro di data science (WP01) del progetto STEPS sul turismo sostenibile.
+
+## Posizioni Precedenti
+
+Prima di entrare allo ZMT, ho ricevuto una borsa post-dottorato **Marie Skłodowska-Curie** (progetto SEA-LIMITHS) presso l'Università Ca' Foscari di Venezia e la Fondazione CMCC (2023–2025), dove ho indagato gli impatti economici dell'innalzamento del livello del mare sul settore alberghiero costiero italiano.
+
+In precedenza, sono stata ricercatrice post-dottorato presso l'**Oeschger Centre for Climate Change Research, Università di Berna** (2019–2023), lavorando su econometria ambientale, rischio di disastri e teoria dei valori estremi.
+
+## Formazione
+
+- **Dottorato in Economia** — University of Birmingham, Regno Unito (2015–2019)
+- **Master in Amministrazione e Sviluppo Rurale** — Universidade Federal Rural de Pernambuco, Brasile (2013–2015)
+- **Laurea in Economia** — Universidade Federal Rural de Pernambuco, Brasile (2008–2012)
+
+## Affiliazioni
+
+- [Earth System Governance Project](https://www.earthsystemgovernance.org/) — Research Fellow
+- [COST Action CA22122 RethinkBlue](https://www.cost.eu/actions/CA22122/) — Gruppo di Lavoro 5: Cambiamenti Climatici e Rischi Naturali
+- [European Geosciences Union (EGU)](https://www.egu.eu/) — Membro
+- [Italian Association of Environmental and Resource Economists (IAERE)](https://www.iaere.org/) — Membro
+- [Future Earth](https://futureearth.org/) — Membro
+- [Marie Curie Alumni Association (MCAA)](https://www.mariecuriealumni.eu/) — Membro

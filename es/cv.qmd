@@ -1,0 +1,21 @@
+---
+title: "CV"
+lang: es
+---
+
+La versión completa de mi CV está disponible para descargar a continuación.
+
+[Descargar CV (PDF)](../Vilane_Goncalves_Sales_CV.pdf){.btn .btn-primary}
+
+---
+
+## Resumen
+
+| | |
+|---|---|
+| **Posición Actual** | Investigadora Postdoctoral, Leibniz Centre for Tropical Marine Research (ZMT), Bremen |
+| **Áreas de Investigación** | Economía Ambiental, Vulnerabilidad Climática, Sistemas Costeros, Turismo Sostenible, PLN |
+| **Doctorado** | University of Birmingham, Reino Unido (2019) |
+| **Becas** | Marie Skłodowska-Curie (2023–2025), CAPES Doctorado en el Exterior (2015–2019) |
+
+Para la lista completa de publicaciones, docencia, supervisión y actividades profesionales, descargue el CV completo arriba.

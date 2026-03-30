@@ -1,0 +1,55 @@
+---
+title: "Ricerca"
+lang: it
+---
+
+## Temi di Ricerca
+
+- **Vulnerabilità climatica ed economia dell'adattamento** — Valutazione di come i rischi climatici colpiscono le comunità e quali politiche riducono la vulnerabilità
+- **Turismo sostenibile e integrazione delle politiche** — Uso di NLP e analisi testuale per valutare come le politiche turistiche affrontano la protezione degli ecosistemi
+- **Sistemi costieri e marini** — Impatti dell'innalzamento del livello del mare, quantificazione del rischio di disastri, vulnerabilità delle infrastrutture costiere
+- **Metodi computazionali** — NLP, machine learning, telerilevamento, econometria spaziale, teoria dei valori estremi
+
+## Articoli in Preparazione e in Revisione
+
+::: {.pub-entry}
+[Sales, V.G.]{.pub-title} (2026). "Divergent Risk Patterns across Coastal Hospitality Sectors in the Northern Adriatic." Inviato a [*Open Research Europe*]{.pub-journal}.
+:::
+
+::: {.pub-entry}
+[Sales, V.G. & Fujitani, M.]{.pub-title} (2026). "Do Disasters Speak Louder than Hazard Exposure? Tourism Policy and Ecosystem Protection in Coastal Destinations." Presentato all'[*EGU General Assembly 2026*]{.pub-journal}, Vienna. [EGU26-7631](https://doi.org/10.5194/egusphere-egu26-7631)
+:::
+
+## Pubblicazioni Selezionate
+
+### 2025
+
+::: {.pub-entry}
+[Sales, V.G.]{.pub-title} (2025). "Sea Level Rise: Scientific Evidence, Socio-Economic Realities, and Adaptation Challenges for Coastal Communities." In *Sea Level Rise: Implications for Human Rights, Security, and Peace*, a cura di E. Fornalé, 17–60. Cham: Palgrave Macmillan. [DOI](https://doi.org/10.1007/978-3-031-89171-7_2)
+:::
+
+::: {.pub-entry}
+[Sales, V.G.]{.pub-title} (2025). "A Coastal Hospitality Sector Database for Vulnerability Assessments in Veneto and Emilia-Romagna, Italy." [*Data in Brief*]{.pub-journal} 58: 111921. [DOI](https://doi.org/10.1016/j.dib.2025.111921)
+:::
+
+### 2023
+
+::: {.pub-entry}
+[Sales, V.G.]{.pub-title} (2023). "Assessing the Impact of Governance Policies on Landslide Risk in Brazilian Municipalities." [*International Journal of Disaster Risk Reduction*]{.pub-journal} 99: 104058. [DOI](https://doi.org/10.1016/j.ijdrr.2023.104058)
+:::
+
+::: {.pub-entry}
+[Sales, V.G. & Strobl, E.]{.pub-title} (2023). "Using Extreme Value Theory to Assess the Mortality Risk of Tornado Outbreaks." [*International Journal of Disaster Risk Science*]{.pub-journal} 14(1): 14–25. [DOI](https://doi.org/10.1007/s13753-023-00474-1)
+:::
+
+### 2022
+
+::: {.pub-entry}
+[Sales, V.G., Strobl, E. & Elliott, R.J.R.]{.pub-title} (2022). "Cloud Cover and Its Impact on Brazil's Deforestation Satellite Monitoring Program: Evidence from the Cerrado Biome of the Brazilian Legal Amazon." [*Applied Geography*]{.pub-journal} 140: 102651. [DOI](https://doi.org/10.1016/j.apgeog.2022.102651)
+:::
+
+## Profili
+
+- [Google Scholar](https://scholar.google.com/citations?user=mL2jpAsAAAAJ)
+- [ORCID: 0000-0003-0627-0872](https://orcid.org/0000-0003-0627-0872)
+- [ResearchGate](https://www.researchgate.net/profile/Vilane-Sales)
