@@ -1,8 +1,8 @@
 /.quarto/
 /docs/
 /_site/
-*.html
 !.github/
+!lang-nav.html
 .Rproj.user
 .Rhistory
 .DS_Store

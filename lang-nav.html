@@ -1,0 +1,38 @@
+<script>
+// Rewrite navbar links to match current language
+document.addEventListener("DOMContentLoaded", function () {
+  var path = window.location.pathname;
+  var langs = ["pt", "es", "it", "de"];
+  var currentLang = "";
+
+  for (var i = 0; i < langs.length; i++) {
+    if (path.indexOf("/" + langs[i] + "/") !== -1) {
+      currentLang = langs[i];
+      break;
+    }
+  }
+
+  if (!currentLang) return;
+
+  var navLinks = document.querySelectorAll(".navbar-nav .nav-link");
+  var pageMap = {
+    "Home": "index.html",
+    "About": "about.html",
+    "Research": "research.html",
+    "Projects": "projects.html",
+    "CV": "cv.html",
+    "Contact": "contact.html"
+  };
+
+  var basePath = path.substring(0, path.indexOf("/" + currentLang + "/"));
+  var langPrefix = basePath + "/" + currentLang + "/";
+
+  navLinks.forEach(function (link) {
+    var text = link.textContent.trim();
+    if (text === "Blog") return;
+    if (pageMap[text]) {
+      link.setAttribute("href", langPrefix + pageMap[text]);
+    }
+  });
+});
+</script>
