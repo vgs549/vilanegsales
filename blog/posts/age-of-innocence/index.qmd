@@ -1,0 +1,104 @@
+---
+title: "The Age of Innocence We Live In"
+subtitle: "On Edith Wharton, climate change, and the politics of not knowing"
+author: "Vilane Gonçalves Sales"
+date: "2026-03-31"
+categories: [literature, climate change, climate justice, gender]
+image: cover.png
+---
+
+![Between the pages and the projections: where literature meets the science we choose to ignore.](cover.png)
+
+This year I committed to reading the classics with strong female protagonists. I decided to commit in this endevour not as escape from work, but as a parallel discipline. I know it can sound crazy but I will do one book at a time, alongside everything else. *The Age of Innocence* was on the list because Wharton is one of those writers everyone references and too few actually read.
+
+As expected, the book describes drawing rooms, dinner parties and the quiet suffocation of a well-bred man in 1870s New York. But since we cannot wander too far from what we see in my daily life, I could find the structural logic of climate inaction described with more precision than most policy reports.
+
+Wharton's New York operates on a single, devastating principle: everyone agrees not to see what is plainly visible. Newland Archer knows the social rules are arbitrary. He knows Ellen Olenska is more alive, more honest, more real than the world that rejects her. He knows all of this. And he sits down to dinner anyway.
+
+That mechanism, the conversion of knowledge into inaction through social architecture, is not a nineteenth-century curiosity. It is the defining feature of our sad relationship with the climate crisis.
+
+---
+
+## The innocence that isn't
+
+Wharton's title is ironic, of course, because old New York is not innocent, not to the tiny tiles of the 5th Avenue. In reality, it is performing innocence: a collective, meticulous agreement to look away from anything that threatens the social architecture. The van der Luydens, the Beauforts, the Mingotts, all of them, do not lack information. They lack the will to act on it, because acting would unravel a system that serves them and provides a comfortable pace of life.
+
+Not kidding, climate governance in the 2020s operates on a structurally identical logic: The IPCC has published six assessment reports.<sup>1</sup> We can measure sea-level rise to the millimetre, project crop failures by region and decade, and model how many people will be displaced and when. Then, it is pressed that the science is not the problem. Actually, the science has not been the problem for thirty years.
+
+The problem is that knowing is not the same as seeing, and seeing is not the same as acting. Wharton understood this in 1920 through a very descriptive social lens. We are still cultivating the logic, using shades and umbrellas to cover the inevitable and enlarging issue.
+
+---
+
+## Who gets to be "innocent"?
+
+In Wharton's world, innocence is not a state of not-knowing. It is a privilege that must be actively maintained, and it is distributed along lines of gender, class, and power. May Welland is "innocent" because the entire social machinery works to keep her so. She is shielded from truths that would complicate the role she is required to play. Her innocence is not hers. It is the system's product, manufactured for the system's benefit.
+
+Ellen Olenska cannot be innocent. She has lived outside the gilded cage: in Europe, in a failed marriage, in contact with the world as it actually is. For this, she is treated as dangerous. Not because she did anything wrong, but because her existence is evidence that the cage has walls.
+
+Now I will attempt to transpose this onto the global climate architecture, if I may. Developed nations have spent decades performing a version of May Welland's innocence: *we did not know the full consequences of industrialisation; we acted in good faith; the science was uncertain.* The fossil fuel industry's own scientists documented the risks in the 1970s.<sup>2</sup> The performance continued regardless, because the system served those performing it. The Global South cannot perform this innocence. Small island developing states watching their shorelines retreat. Farmers in the Sahel whose growing seasons have shifted beyond recognition. Coastal communities in Bangladesh building their third home on the same floodplain. They live with the consequences. They are the Ellen Olenskas of the climate system: their lived experience makes the collective pretence untenable. And for this, they are not rewarded with a seat at the table. They are managed, consulted, occasionally compensated, but rarely given the power to reshape the architecture that produces their vulnerability.
+
+There is a particular cruelty in this. Countries respond to disasters they have already suffered, not to the projections that tell them what is coming. The innocence of the unexperienced is a powerful anaesthetic.
+
+---
+
+## The women who see clearly and pay for it
+
+Wharton gives us two models of femininity, and unfortunately, neither is free.
+
+May Welland wins by the rules of her world. She is beautiful, composed, and strategically ignorant. She secures her marriage, her home, her place in the social order, by never acknowledging what she almost certainly knows about her husband and Ellen. Her victory (?) is total and hollow. Ellen Olenska loses by refusing to play. She sees the system for what it is, names it, and is expelled for the naming. She returns to Europe alone. Her clarity costs her everything the system has to offer.
+
+Paralelly, The climate crisis reproduces this choice with striking fidelity. Women in the Global South bear a disproportionate share of climate impacts: they collect the water that is no longer where it was, they farm the land that no longer yields what it did, they rebuild the homes that flood more frequently each decade. The data on this is not ambiguous. Women constitute a disproportionate majority of those displaced by climate change.<sup>3</sup> They own less land, have less access to credit, and face greater barriers to migration when adaptation fails.<sup>4</sup>
+
+And yet the spaces where climate policy is made remain overwhelmingly male, overwhelmingly Northern, and overwhelmingly insulated from the consequences of their own decisions. Women who name this, who insist that climate policy is gender policy, who point out that adaptation finance flows to infrastructure and not to the people most exposed, pay a professional and political price. Often quietly, in the form of being heard but not heeded, of being invited to speak about "inclusivity" rather than "strategy."
+
+---
+
+## The architecture of inaction
+
+If I can try to bridge the novel and the climate crisis is by looking at the structure, not the metaphor.
+
+Archer does not fail because he is weak. He fails because the system is designed to make individual action nearly impossible. Every dinner, every opera box, every floral arrangement is a signal, a reminder that deviation will be noted, interpreted, and punished. The cost of acting on what he knows is not just personal. It would tear the social fabric that everyone around him depends on, including the people he loves.
+
+Climate inaction follows the same architecture. It is not that policymakers are ignorant or corrupt (though some are both). It is that the global economy is an interlocking system of dependencies where every node resists disruption. Fossil fuel infrastructure, trade agreements, employment patterns, consumer expectations, electoral cycles: these are the dinner parties of our age. They do not prevent knowledge. They prevent knowledge from becoming action.
+
+The Paris Agreement was signed in 2015. Emissions have risen since.<sup>5</sup> Every COP produces communiques that acknowledge the urgency and defer the response. National governments legislate climate targets and approve new drilling permits in the same session. The knowledge is there. The architecture converts it into inaction. The van der Luydens would understand this perfectly. They invented the method.
+
+---
+
+## What Wharton knew about loss
+
+There is one more dimension, and it is the one I find hardest to write about.
+
+Wharton wrote *The Age of Innocence* in 1920, looking back at a world that the First World War had already destroyed. The novel is an act of preservation: meticulous, loving, ruthless in its clarity. She documents every detail of a civilisation she knows is gone. The food, the flowers, the precise gradations of social acceptability. The beauty of it is inseparable from the loss.
+
+We are living through our own version of this. The Great Barrier Reef has lost more than half its coral populations since 1995.<sup>6</sup> Arctic summer sea ice has declined by 40% since satellite records began.<sup>7</sup> Glaciers that have existed for thousands of years are disappearing within a single human lifetime. Species are going extinct at a rate up to 100 times higher than the background rate, a pace not seen since the last mass extinction event.<sup>8</sup>
+
+There is a particular kind of knowledge that comes from documenting something you know is disappearing. Wharton had it. Climate scientists have it. It sharpens your attention. It makes you more precise, not less. And it raises a question that the novel poses but never answers: if you see clearly, and the system prevents you from acting, what is the honest thing to do?
+
+Archer chooses the system. He sits down to dinner. He raises his children. He grows old.
+
+I do not think that is good enough anymore.
+
+---
+
+*Vilane is a postdoctoral researcher at the Leibniz Centre for Tropical Marine Research (ZMT) in Bremen. This year she is reading the classics, one book at a time. This blog is where those readings, and everything else that demands to be written about, end up.*
+
+---
+
+### References
+
+<sup>1</sup> IPCC (2023). *Climate Change 2023: Synthesis Report.* Contribution of Working Groups I, II and III to the Sixth Assessment Report [Core Writing Team, H. Lee and J. Romero (eds.)]. IPCC, Geneva, Switzerland. doi: 10.59327/IPCC/AR6-9789291691647.
+
+<sup>2</sup> Supran, G. & Oreskes, N. (2017). Assessing ExxonMobil's climate change communications (1977-2014). *Environmental Research Letters*, 12(8), 084019. doi: 10.1088/1748-9326/aa815f. See also: Banerjee, N., Song, L., Hasemyer, D. & Cushman Jr., J.H. (2015). *Exxon: The Road Not Taken.* Inside Climate News.
+
+<sup>3</sup> Neumayer, E. & Plumper, T. (2007). The gendered nature of natural disasters: the impact of catastrophic events on the gender gap in life expectancy, 1981-2002. *Annals of the Association of American Geographers*, 97(3), 551-566. doi: 10.1111/j.1467-8306.2007.00563.x.
+
+<sup>4</sup> IPCC (2022). *Climate Change 2022: Impacts, Adaptation and Vulnerability.* Working Group II Contribution to AR6, Chapter 8: Poverty, Livelihoods and Sustainable Development. See also: FAO (2011). *The State of Food and Agriculture 2011: Women in Agriculture.* Rome.
+
+<sup>5</sup> Friedlingstein, P. et al. (2024). Global Carbon Budget 2024. *Earth System Science Data*, 16, 2257-2340. doi: 10.5194/essd-16-2257-2024.
+
+<sup>6</sup> Dietzel, A., Bode, M., Connolly, S.R. & Hughes, T.P. (2020). Long-term shifts in the colony size structure of coral populations along the Great Barrier Reef. *Proceedings of the Royal Society B*, 287(1936), 20201432. doi: 10.1098/rspb.2020.1432.
+
+<sup>7</sup> National Snow and Ice Data Center (NSIDC). Arctic Sea Ice News & Analysis. Accessed March 2026.
+
+<sup>8</sup> IPBES (2019). *Global Assessment Report on Biodiversity and Ecosystem Services.* E.S. Brondizio, J. Settele, S. Diaz and H.T. Ngo (eds.). IPBES Secretariat, Bonn, Germany.
