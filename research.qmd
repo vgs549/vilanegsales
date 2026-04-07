@@ -16,7 +16,7 @@ title: "Research"
 :::
 
 ::: {.pub-entry}
-[Sales, V.G. & Fujitani, M.]{.pub-title} (2026). "Do Disasters Speak Louder than Hazard Exposure? Tourism Policy and Ecosystem Protection in Coastal Destinations." Presented at [*EGU General Assembly 2026*]{.pub-journal}, Vienna. [EGU26-7631](https://doi.org/10.5194/egusphere-egu26-7631)
+[Sales, V.G. & Fujitani, M.]{.pub-title} (2026). "Do Disasters Speak Louder than Hazard Exposure? Tourism Policy and Ecosystem Protection in Coastal Destinations." Submitted to [*EGU General Assembly 2026*]{.pub-journal}, Vienna. [EGU26-7631](https://doi.org/10.5194/egusphere-egu26-7631)
 :::
 
 ## Selected Publications
