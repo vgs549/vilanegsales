@@ -33,7 +33,7 @@ Without adaptation measures, global GDP could decline by 1.5 to 6.2 percent by 2
 
 A 2021 study in *PNAS* by Hummel and colleagues showed something I did suspect: coastal protection is not spatially neutral.<sup>4</sup> When one stretch of coastline builds a sea wall, the floodwater does not disappear but it goes somewhere else. Their models found that protecting one segment can shift up to 36 million cubic metres of floodwater to adjacent, unprotected areas. In a single flood event, this redistribution caused $723 million in additional damage to neighbouring communities.
 
-Protection for some becomes flooding for others. The sea wall does not solve the problem. It moves it — to whoever cannot afford their own wall.
+Protection for some becomes flooding for others. The sea wall does not solve the problem. It moves it to whoever cannot afford their own wall.
 
 So adaptation, in practice, is a competition. And the losers are determined before the storm arrives, by the size of their budget.
 
@@ -41,11 +41,11 @@ So adaptation, in practice, is a competition. And the losers are determined befo
 
 ## I have seen this before
 
-In 2023, I published a study on landslide governance across more than 5,500 Brazilian municipalities over twenty years.<sup>5</sup> The question was simple: does governance — actual legislation, actual institutional membership in resilience networks — reduce fatalities from landslides?
+In 2023, I published a study on landslide governance across more than 5,500 Brazilian municipalities over twenty years.<sup>5</sup> The question was simple: does governance (actual legislation, actual institutional membership in resilience networks) reduce fatalities from landslides?
 
 It does. Local climate legislation saves lives. Membership in the UN's Making Cities Resilient campaign saves lives, theoretically at least. The mechanisms are not mysterious: monitoring systems get funded, evacuation protocols get written, building codes get enforced. Governance is not abstract when it determines whether a hillside neighbourhood has a warning siren or not.
 
-But the finding cuts both ways. Where governance is absent, people die at higher rates — not because they live in more dangerous places, but because no one built the systems that would protect them. The mortality is a political matter.
+But the finding cuts both ways. Where governance is absent, people die at higher rates, not because they live in more dangerous places, but because no one built the systems that would protect them. The mortality is a political matter.
 
 This is not a new idea. In 2005, the economist Matthew Kahn published a study across 73 countries over two decades and found something that should have reshaped the entire adaptation debate: richer nations do not experience fewer natural disasters than poorer ones. They just die less from them. Democracies and countries with stronger institutions suffer fewer fatalities. And this is not because the storms are weaker, but because the systems that protect people actually exist.<sup>6</sup> The title of his paper names the argument plainly: "The Death Toll from Natural Disasters: The Role of Income, Geography, and Institutions."
 
@@ -87,7 +87,7 @@ To put it bluntly: the sea does not discriminate but budgets do.
 
 ### Note on terminology
 
-\* Related concepts in the literature include *trapped populations* — people who want to migrate but lack the resources (Zickgraf, *Ambio*, 2018); *managed retreat* — planned relocation away from hazard zones (Siders et al., *Science*, 2019); *climate gentrification* — adaptation investments displacing vulnerable residents (Keenan et al., *Environmental Research Letters*, 2018); *sacrifice zones* — communities subjected to deliberate environmental harm (Lerner, 2010); and *insurance retreat* — insurers withdrawing coverage as coastal risk rises (Storey et al., *Climatic Change*, 2024). What both Atkins's usage and mine share is the logic of path dependency: once the self-reinforcing cycle begins — whether through industrial decline or fiscal erosion — the community's capacity to respond narrows with each iteration.
+\* Related concepts in the literature include *trapped populations*, people who want to migrate but lack the resources (Zickgraf, *Ambio*, 2018); *managed retreat*, the planned relocation of communities away from hazard zones (Siders et al., *Science*, 2019); *climate gentrification*, where adaptation investments displace the very residents they are meant to protect (Keenan et al., *Environmental Research Letters*, 2018); *sacrifice zones*, communities subjected to deliberate environmental harm (Lerner, 2010); and *insurance retreat*, the withdrawal of coverage as coastal risk rises (Storey et al., *Climatic Change*, 2024). What both Atkins's usage and mine share is the logic of path dependency: once the self-reinforcing cycle begins, whether through industrial decline or fiscal erosion, the community's capacity to respond narrows with each iteration.
 
 ---
 
