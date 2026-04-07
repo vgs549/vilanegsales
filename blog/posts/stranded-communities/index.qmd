@@ -1,0 +1,116 @@
+---
+title: "The Communities That Markets Forgot"
+subtitle: "On stranded assets, stranded people, and the economics of looking away"
+author: "Vilane Gonçalves Sales"
+date: "2026-04-07"
+categories: [climate change, adaptation, coastal economics, blue justice]
+image: cover.png
+---
+
+![When the market withdraws before the water arrives.](cover.png)
+
+There is a term in finance that I always find provocative: *stranded assets*. It describes fossil fuel reserves that will never be extracted because the world has decided to decarbonise. Coal that must stay in the ground. Oil fields rendered worthless by policy rather than geology. Investors mourn these assets. Entire conferences are dedicated to managing the transition. But I wonder about an equivalent term for the people.
+
+The geographer Ed Atkins has recently asked a similar question. In a 2024 paper, he used the term *stranded communities* to describe places dependent on carbon-heavy industries — coal towns, oil regions — facing redundancy as decarbonisation policies reshape the economy.<sup>11</sup> His argument draws on the language of lock-in and path dependency: once a community is built around a single extractive industry, the infrastructure, contracts, and institutions all condition what comes next. When the industry becomes a liability, so does the community.
+
+During my Marie Curie Fellowship, I spent two years building databases of Italian coastal establishments, such as hotels, restaurants and lidos, mapping which ones sit in the path of rising seas and what happens to local economies when the water arrives before the protection does.<sup>1</sup> The numbers are instructive, but what stays with me is simpler: these are places where people work, where families have built something across generations, and where the market is quietly withdrawing long before the first flood.
+
+I want to borrow Atkins's term and extend it. The coastal communities I study are not stranded by the transition *away* from fossil fuels. They are stranded by the *consequences* of not having transitioned soon enough. But the underlying logic is the same: path dependency, self-reinforcing decline, and institutions that withdraw once the economics turn.*
+
+---
+
+## The trap
+
+A study published on *PreventionWeb* last year described a feedback loop that I recognised immediately from my own data.<sup>2</sup> It works like this: as sea levels rise, a coastal community needs protective infrastructure and this costs money. If the community is poor, it cannot afford the protection. Without protection, the next storm causes more damage. Property values drop. Investors leave. The tax base shrinks. And with fewer resources, the community becomes even less able to afford the protection it needed in the first place.
+
+This is a fiscal mechanism, and it operates with the indifference of compound interest. In this case, however, it works in reverse. The rich protect themselves and appreciate. The poor cannot protect themselves and depreciate. The gap widens with every storm season.
+
+Without adaptation measures, global GDP could decline by 1.5 to 6.2 percent by 2100.<sup>2</sup> But that range conceals a distribution so unequal it deserves a closer look. Amsterdam, one of the most flood-exposed cities on Earth, loses roughly $3 million per year to flood damage because it can afford the infrastructure. Guangzhou, comparably exposed, loses $687 million.<sup>3</sup> The difference is not only geography, it is also money, and money determines whether geography becomes destiny.
+
+---
+
+## What protection actually does
+
+A 2021 study in *PNAS* by Hummel and colleagues showed something I did suspect: coastal protection is not spatially neutral.<sup>4</sup> When one stretch of coastline builds a sea wall, the floodwater does not disappear but it goes somewhere else. Their models found that protecting one segment can shift up to 36 million cubic metres of floodwater to adjacent, unprotected areas. In a single flood event, this redistribution caused $723 million in additional damage to neighbouring communities.
+
+Protection for some becomes flooding for others. The sea wall does not solve the problem. It moves it — to whoever cannot afford their own wall.
+
+So adaptation, in practice, is a competition. And the losers are determined before the storm arrives, by the size of their budget.
+
+---
+
+## I have seen this before
+
+In 2023, I published a study on landslide governance across more than 5,500 Brazilian municipalities over twenty years.<sup>5</sup> The question was simple: does governance — actual legislation, actual institutional membership in resilience networks — reduce fatalities from landslides?
+
+It does. Local climate legislation saves lives. Membership in the UN's Making Cities Resilient campaign saves lives, theoretically at least. The mechanisms are not mysterious: monitoring systems get funded, evacuation protocols get written, building codes get enforced. Governance is not abstract when it determines whether a hillside neighbourhood has a warning siren or not.
+
+But the finding cuts both ways. Where governance is absent, people die at higher rates — not because they live in more dangerous places, but because no one built the systems that would protect them. The mortality is a political matter.
+
+This is not a new idea. In 2005, the economist Matthew Kahn published a study across 73 countries over two decades and found something that should have reshaped the entire adaptation debate: richer nations do not experience fewer natural disasters than poorer ones. They just die less from them. Democracies and countries with stronger institutions suffer fewer fatalities. And this is not because the storms are weaker, but because the systems that protect people actually exist.<sup>6</sup> The title of his paper names the argument plainly: "The Death Toll from Natural Disasters: The Role of Income, Geography, and Institutions."
+
+Fifteen years later, Tennant and Gilmore confirmed this in *PNAS* with sharper tools: analysing over a thousand tropical cyclone disasters from 1979 to 2016, they showed that government effectiveness reduces cyclone mortality even after controlling for income.<sup>7</sup> It is not just that rich countries cope better. Countries with functional institutions cope better, at any income level.
+
+I see the same structure now on coastlines worldwide. The communities entering the adaptation feedback loop are not necessarily the ones with the worst geography. They are the ones with the least fiscal and institutional capacity to respond.
+
+---
+
+## The ocean we are building
+
+The Stockholm Environment Institute observed earlier this year that the ocean is no longer a void.<sup>8</sup> It is becoming a *built seascape*, covered in offshore wind farms, subsea cables, pipelines, aquaculture systems, sensors. Every square kilometre is being claimed for something. Some sort of *sea grabbing*, if I may.
+
+This transformation is necessary. We need offshore renewables. We need marine protected areas. But every wind farm occupies space that a fishing community once used. Every cable route crosses a traditional fishing ground. The 30x30 agenda is laudable in aggregate and, in specific places, devastating for the small-scale fishers who depend on those waters.
+
+The term gaining traction for this is *blue injustice*: green and blue transitions, designed to save the planet, displacing the people most connected to the sea. Conservation that evicts. Renewable energy that dispossesses. The intention is ecological. The effect, for particular communities, is economic deletion.
+
+I wrote a book chapter last year on sea-level rise and its implications for human rights and security.<sup>9</sup> One of the questions I did not touch but should have is what happens to a nation whose territory disappears. Small Island Developing States like Palau, Tuvalu, and the Maldives are pushing for their maritime boundaries to be legally fixed, regardless of whether the islands that define those boundaries still exist above water. If an island sinks, does its Exclusive Economic Zone sink with it? The fishing rights, the mineral rights, the sovereignty itself?
+
+---
+
+## Who decides
+
+The adaptation gap, which is the difference between what developing countries need to spend on adaptation and what they actually have, is currently estimated at $70 billion per year, expected to double by 2030.<sup>10</sup> Every dollar invested in coastal protection today is estimated to save four to seven dollars in future Loss and Damage payouts.<sup>3</sup>
+
+And yet the communities that most need protection are the ones least likely to receive it, because the decision to protect is made by markets that have already moved on, by insurers who have already repriced the risk, by investors who have already redirected their capital. The stranding happens silently: credit lines disappear, insurance premiums become unaffordable, young people leave, and one day the community is still there on the map but no longer viable as a place where people can build a life.
+
+I continue my research to find ways to promote solutions. But I think naming the mechanism matters. We talk about stranded assets because the financial system needed a word for the losses it was creating. We need an equivalent for the human losses because you cannot govern what you refuse to see.
+
+In my research in Brazil, I found that governance saves lives when it exists. The corollary is that its absence is a choice, and that choice has a body count. The same logic applies to coastal adaptation. Every community left outside the fiscal capacity to protect itself is not a victim of nature. It is a victim of allocation, of who gets protected and who gets written off.
+
+To put it bluntly: the sea does not discriminate but budgets do.
+
+---
+
+*Vilane is a postdoctoral researcher at the Leibniz Centre for Tropical Marine Research (ZMT) in Bremen, working on the economics of coastal climate vulnerability. This is the second post in a series where research meets everything else that demands to be written about.*
+
+---
+
+### Note on terminology
+
+\* Related concepts in the literature include *trapped populations* — people who want to migrate but lack the resources (Zickgraf, *Ambio*, 2018); *managed retreat* — planned relocation away from hazard zones (Siders et al., *Science*, 2019); *climate gentrification* — adaptation investments displacing vulnerable residents (Keenan et al., *Environmental Research Letters*, 2018); *sacrifice zones* — communities subjected to deliberate environmental harm (Lerner, 2010); and *insurance retreat* — insurers withdrawing coverage as coastal risk rises (Storey et al., *Climatic Change*, 2024). What both Atkins's usage and mine share is the logic of path dependency: once the self-reinforcing cycle begins — whether through industrial decline or fiscal erosion — the community's capacity to respond narrows with each iteration.
+
+---
+
+### References
+
+<sup>1</sup> The SEA-LIMITHS project (Grant No. 101106544), funded under the Marie Skłodowska-Curie Actions, investigated the economic impacts of sea-level rise on Italy's coastal hospitality sector using remote sensing, AI, and computable general equilibrium modelling. Conducted at Ca' Foscari University of Venice and the CMCC Foundation, 2023–2025.
+
+<sup>2</sup> "How will sea level rise affect the global economy?" PreventionWeb, 2025. Available at: preventionweb.net.
+
+<sup>3</sup> World Economic Forum. "Rising Sea Levels: A Global Threat." *Global Risks Report 2025*. Available at: weforum.org. The Amsterdam–Guangzhou comparison and cost-benefit ratios are drawn from this source.
+
+<sup>4</sup> Hummel, M.A., Griffin, R., Arkema, K. & Guerry, A.D. (2021). Economic evaluation of sea-level rise adaptation strongly influenced by hydrodynamic feedbacks. *Proceedings of the National Academy of Sciences*, 118(29), e2025961118. doi: 10.1073/pnas.2025961118.
+
+<sup>5</sup> Sales, V.G. (2023). Assessing the impact of governance policies on landslide risk in Brazilian municipalities. *International Journal of Disaster Risk Reduction*, 99, 104058. doi: 10.1016/j.ijdrr.2023.104058.
+
+<sup>6</sup> Kahn, M.E. (2005). The death toll from natural disasters: The role of income, geography, and institutions. *The Review of Economics and Statistics*, 87(2), 271–284. doi: 10.1162/0034653053970339.
+
+<sup>7</sup> Tennant, E. & Gilmore, E. (2020). Government effectiveness and institutions as determinants of tropical cyclone mortality. *Proceedings of the National Academy of Sciences*, 117(52), e2006213117. doi: 10.1073/pnas.2006213117.
+
+<sup>8</sup> Stockholm Environment Institute. "The Ocean in 2026: Sustainability Ambitions and Rising Geopolitical Tensions." SEI Perspectives, 2026. Available at: sei.org.
+
+<sup>9</sup> Sales, V.G. (2025). Sea level rise: Scientific evidence, socio-economic realities, and adaptation challenges for coastal communities. In E. Fornalé (Ed.), *Sea Level Rise: Implications for Human Rights, Security, and Peace* (pp. 17–60). Cham: Palgrave Macmillan. doi: 10.1007/978-3-031-89171-7_2.
+
+<sup>10</sup> UNEP (2025). *Adaptation Gap Report 2025*. United Nations Environment Programme, Nairobi. Adaptation cost estimate cited in China Daily, 2026.
+
+<sup>11</sup> Atkins, E. (2024). The geographies of 'stranded communities' in energy transitions. *Progress in Human Geography*, 48(4). doi: 10.1177/03091325241255964.
