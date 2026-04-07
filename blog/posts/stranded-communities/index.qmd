@@ -3,7 +3,7 @@ title: "The Communities That Markets Forgot"
 subtitle: "On stranded assets, stranded people, and the economics of looking away"
 author: "Vilane Gonçalves Sales"
 date: "2026-04-07"
-categories: [climate change, adaptation, coastal economics, blue justice]
+categories: [climate change, adaptation, coastal economics, blue justice, sea-level rise, stranded communities, governance, environmental economics]
 image: cover.png
 ---
 
