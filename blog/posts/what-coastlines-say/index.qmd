@@ -1,0 +1,35 @@
+---
+title: "What Coastlines Are Allowed to Say"
+subtitle: "An Earth Day note"
+author: "Vilane Gonçalves Sales"
+date: "2026-04-23"
+categories: [Earth Day, tourism policy, coastal ecosystems, climate adaptation, governance, environmental policy]
+---
+
+Earth Day usually arrives wrapped in good intentions. Speeches about commitment, photographs of forests and ice, declarations of stewardship. After two years of reading the policy documents that govern tropical coastlines, I have learned to be cautious about the distance between what governments are willing to say and what they are willing to do.
+
+This is the first time I have written publicly about the project I lead at the Leibniz Centre for Tropical Marine Research in Bremen: a workstream within STEPS that reads tourism policy from across the tropical coastal belt to ask a narrow, stubborn question.<sup>1</sup> Do tourism policies in the most exposed coastal countries actually protect the ecosystems their economies depend on?
+
+The project assembles tourism policies from 123 tropical countries and territories, covering 25 years and five languages.<sup>2</sup> I built a measurement tool I call the *Tourism Ecosystem Protection Index*, or TEPI, that scores each policy on five dimensions of ecosystem attention. I combine it with hazard data from the INFORM Risk Index and the EM-DAT disaster database to ask whether the countries most in harm's way are the ones writing the strongest protection.
+
+Before I say anything about what the data shows, two things belong on the record. First, tourism is not only a victim of the ecosystems it depends on. The sector that builds resorts on former mangrove frontage, sends cruise ships through reef channels, and draws hard on coastal aquifers is itself a direct cause of the degradation it now claims to want protected. Whatever I find in the policy text sits inside that uncomfortable overlap. Second, I'm reading what policies *say*, not what governments *do*. The two are related but not identical.
+
+With those caveats in place, here is the first thing the data shows, and the only one I will say publicly today.
+
+Across the cross-section of countries in our sample, there is no statistical relationship between hazard exposure and how strongly tourism policy articulates ecosystem protection.<sup>2</sup> Countries facing the most severe cyclone and flood risk do not write stronger policies than safer destinations. Awareness of risk, it turns out, does not by itself produce policy action in the sector that most directly depends on what is at risk.
+
+The places writing the most about coastal ecosystems are not the places facing the most risk to them.
+
+There is more the data says, about how the picture changes when you look at disaster experience rather than disaster exposure, at the trajectory over 25 years rather than the snapshot, and at the difference between a treaty signed in Paris and a storm landing at home. I am writing those up for peer review and plan to return to the blog with the fuller story later.
+
+For Earth Day, the first finding is enough to sit with. In the tropical coastal belt, where reefs and mangroves and beaches are the economic floor, the policies governing the sector most dependent on them are not systematically stronger where the sea is already at the door. Earth Day is, by design, an anticipatory occasion. The pattern the data is showing me, so far, is that anticipation is not yet where the sector lives.
+
+More later this summer, once the first paper is further along.
+
+---
+
+### References
+
+<sup>1</sup> STEPS (Sustainable Tourism Evolving Paradigms) analyses tourism policies across tropical and partially tropical coastal countries. WP01, the workstream described here, focuses on the relationship between climate hazard exposure and ecosystem protection in tourism policy.
+
+<sup>2</sup> Sales, V. G., & Fujitani, M. (2026). *Do disasters speak louder than hazard exposure? Tourism policy and ecosystem protection in coastal destinations.* Abstract submitted to EGU General Assembly 2026. Sample: 415 policies from 123 countries, 2000–2025.
