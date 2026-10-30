@@ -5,18 +5,18 @@ lang: pt
 
 ## Atual
 
-### STEPS — Estratégias de Turismo Sustentável e Proteção de Ecossistemas
+### STEPS (Sustainable Tourism: Evolving Paradigms)
 **Leibniz Centre for Tropical Marine Research (ZMT)** | 2025–presente
 
-Líder do Pacote de Trabalho 01 — Aplicação de PLN e aprendizado de máquina para analisar mudanças nas políticas de turismo sustentável em destinos costeiros tropicais. Investigando como os países estão reimaginando o turismo pós-pandemia sob a perspectiva da proteção de ecossistemas.
+Líder do Pacote de Trabalho 01: aplicação de PLN e aprendizado de máquina para analisar mudanças nas políticas de turismo sustentável em destinos costeiros tropicais. Investigando como os países estão reimaginando o turismo pós-pandemia sob a perspectiva da proteção de ecossistemas.
 
-Desenvolvi o Índice de Proteção de Ecossistemas no Turismo (TEPI), uma medida baseada em PLN que avalia como as políticas de turismo articulam a proteção de ecossistemas. Uma descoberta importante é que a atenção das políticas de turismo aos ecossistemas parece ser impulsionada pela experiência com desastres, e não pela percepção de risco.
+Desenvolvi o Índice de Proteção de Ecossistemas no Turismo (TEPI), uma medida baseada em PLN que avalia como as políticas de turismo articulam a proteção de ecossistemas. Resultados preliminares sugerem que a atenção das políticas de turismo aos ecossistemas pode ser impulsionada mais pela experiência com desastres do que pela percepção de risco.
 
 ---
 
 ## Concluído
 
-### SEA-LIMITHS — Impactos da Elevação do Nível do Mar no Setor de Turismo e Hotelaria
+### SEA-LIMITHS (Sea Level Rise Impacts on Italian Hospitality)
 **Bolsa de Pós-Doutorado Marie Skłodowska-Curie** | Università Ca' Foscari di Venezia e Fundação CMCC | 2023–2025
 
 Liderou projeto interdisciplinar sobre os impactos econômicos da elevação do nível do mar no setor hoteleiro costeiro da Itália. Construiu banco de dados georreferenciado com mais de 10.000 estabelecimentos costeiros, integrando sensoriamento remoto, classificação por IA e dados econômicos. Aplicou análise espacial, aprendizado de máquina e modelagem CGE para estimativa de vulnerabilidade e custos de adaptação.

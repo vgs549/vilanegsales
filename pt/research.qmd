@@ -5,22 +5,32 @@ lang: pt
 
 ## Temas de Pesquisa
 
-- **Vulnerabilidade climática e economia da adaptação** — Avaliação de como os riscos climáticos afetam comunidades e quais políticas reduzem a vulnerabilidade
-- **Turismo sustentável e integração de políticas** — Uso de PLN e análise textual para avaliar como políticas de turismo abordam a proteção de ecossistemas
-- **Sistemas costeiros e marinhos** — Impactos da elevação do nível do mar, quantificação de risco de desastres, vulnerabilidade de infraestrutura costeira
-- **Métodos computacionais** — PLN, aprendizado de máquina, sensoriamento remoto, econometria espacial, teoria de valores extremos
+- **Vulnerabilidade climática e economia da adaptação**: Avaliação de como os riscos climáticos afetam comunidades e quais políticas reduzem a vulnerabilidade
+- **Turismo sustentável e integração de políticas**: Uso de PLN e análise textual para avaliar como políticas de turismo abordam a proteção de ecossistemas
+- **Sistemas costeiros e marinhos**: Impactos da elevação do nível do mar, quantificação de risco de desastres, vulnerabilidade de infraestrutura costeira
+- **Métodos computacionais**: PLN, aprendizado de máquina, sensoriamento remoto, econometria espacial, teoria de valores extremos
 
-## Artigos em Preparação e em Revisão
+## Artigos em Preparação e Resumos
 
 ::: {.pub-entry}
-[Sales, V.G.]{.pub-title} (2026). "Divergent Risk Patterns across Coastal Hospitality Sectors in the Northern Adriatic." Submetido a [*Open Research Europe*]{.pub-journal}.
+[Sales, V.G., Denamiel, C., Standardi, G. & Bosello, F.]{.pub-title} "From Asset to Economy: Coastal Flood Damage, Adaptation, and General Equilibrium Effects in the Italian Adriatic." Versão final; uma versão anterior foi apresentada na [*EGU General Assembly 2025*]{.pub-journal}.
 :::
 
 ::: {.pub-entry}
-[Sales, V.G. & Fujitani, M.]{.pub-title} (2026). "Do Disasters Speak Louder than Hazard Exposure? Tourism Policy and Ecosystem Protection in Coastal Destinations." Apresentado na [*EGU General Assembly 2026*]{.pub-journal}, Viena. [EGU26-7631](https://doi.org/10.5194/egusphere-egu26-7631)
+[Sales, V.G. & Fujitani, M.]{.pub-title} "When Nature Strikes Tourism: Tourism Asset Protection and Policy Integration Analysis." Em andamento.
+:::
+
+::: {.pub-entry}
+[Sales, V.G. & Fujitani, M.]{.pub-title} (2026). "Do Disasters Speak Louder than Hazard Exposure? Tourism Policy and Ecosystem Protection in Coastal Destinations." Submetido à [*EGU General Assembly 2026*]{.pub-journal}, Viena. [EGU26-7631](https://doi.org/10.5194/egusphere-egu26-7631)
 :::
 
 ## Publicações Selecionadas
+
+### 2026
+
+::: {.pub-entry}
+[Sales, V.G.]{.pub-title} (2026). "Divergent Risk Patterns across Coastal Hospitality Sectors in the Northern Adriatic." [*Open Research Europe*]{.pub-journal} 6: 190 [version 1; peer review: 2 approved, 2 approved with reservations]. [DOI](https://doi.org/10.12688/openreseurope.23489.1)
+:::
 
 ### 2025
 
@@ -29,7 +39,7 @@ lang: pt
 :::
 
 ::: {.pub-entry}
-[Sales, V.G.]{.pub-title} (2025). "A Coastal Hospitality Sector Database for Vulnerability Assessments in Veneto and Emilia-Romagna, Italy." [*Data in Brief*]{.pub-journal} 58: 111921. [DOI](https://doi.org/10.1016/j.dib.2025.111921)
+[Sales, V.G.]{.pub-title} (2025). "A Coastal Hospitality Sector Database for Vulnerability Assessments in Veneto and Emilia-Romagna, Italy." [*Data in Brief*]{.pub-journal} 62: 111921. [DOI](https://doi.org/10.1016/j.dib.2025.111921)
 :::
 
 ### 2023
@@ -46,6 +56,20 @@ lang: pt
 
 ::: {.pub-entry}
 [Sales, V.G., Strobl, E. & Elliott, R.J.R.]{.pub-title} (2022). "Cloud Cover and Its Impact on Brazil's Deforestation Satellite Monitoring Program: Evidence from the Cerrado Biome of the Brazilian Legal Amazon." [*Applied Geography*]{.pub-journal} 140: 102651. [DOI](https://doi.org/10.1016/j.apgeog.2022.102651)
+:::
+
+## Apresentações em Conferências
+
+::: {.pub-entry}
+[Sales, V.G. & Fujitani, M.]{.pub-title} (2026). "Coastal Tourism Governance in Transition: Tracking Policy Language across Island and Tropical States over Three Decades." Apresentação oral, [*ECSA 61*]{.pub-journal}, Bruxelas, 24–27 de agosto de 2026.
+:::
+
+::: {.pub-entry}
+[Sales, V.G. & Fujitani, M.]{.pub-title} (2026). "Ecosystem Governance in Tourism Policy across Tropical Coastal and Island States." Apresentação oral, [*ECSA 61*]{.pub-journal}, Bruxelas, 24–27 de agosto de 2026.
+:::
+
+::: {.pub-entry}
+Moderadora de sessão, General Session "Coastal Governance and Policy", [*ECSA 61*]{.pub-journal}, Bruxelas, agosto de 2026.
 :::
 
 ## Perfis

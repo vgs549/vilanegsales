@@ -5,18 +5,18 @@ lang: es
 
 ## Actual
 
-### STEPS — Estrategias de Turismo Sostenible y Protección de Ecosistemas
+### STEPS (Sustainable Tourism: Evolving Paradigms)
 **Leibniz Centre for Tropical Marine Research (ZMT)** | 2025–presente
 
-Líder del Paquete de Trabajo 01 — Aplicación de PLN y aprendizaje automático para analizar cambios en las políticas de turismo sostenible en destinos costeros tropicales. Investigando cómo los países están reimaginando el turismo pospandemia desde la perspectiva de la protección de ecosistemas.
+Líder del Paquete de Trabajo 01: aplicación de PLN y aprendizaje automático para analizar cambios en las políticas de turismo sostenible en destinos costeros tropicales. Investigando cómo los países están reimaginando el turismo pospandemia desde la perspectiva de la protección de ecosistemas.
 
-Desarrollé el Índice de Protección de Ecosistemas en el Turismo (TEPI), una medida basada en PLN que evalúa cómo las políticas turísticas articulan la protección de ecosistemas. Un hallazgo clave es que la atención de las políticas turísticas a los ecosistemas parece estar impulsada por la experiencia con desastres, y no por la percepción de riesgo.
+Desarrollé el Índice de Protección de Ecosistemas en el Turismo (TEPI), una medida basada en PLN que evalúa cómo las políticas turísticas articulan la protección de ecosistemas. Los resultados preliminares sugieren que la atención de las políticas turísticas a los ecosistemas podría estar impulsada más por la experiencia con desastres que por la percepción de riesgo.
 
 ---
 
 ## Completado
 
-### SEA-LIMITHS — Impactos de la Subida del Nivel del Mar en el Sector Turístico y Hotelero
+### SEA-LIMITHS (Sea Level Rise Impacts on Italian Hospitality)
 **Beca Postdoctoral Marie Skłodowska-Curie** | Università Ca' Foscari di Venezia y Fundación CMCC | 2023–2025
 
 Lideró un proyecto interdisciplinario sobre los impactos económicos de la subida del nivel del mar en el sector hotelero costero de Italia. Construyó una base de datos georreferenciada de más de 10.000 establecimientos costeros integrando teledetección, clasificación por IA y datos económicos. Aplicó análisis espacial, aprendizaje automático y modelización CGE para la estimación de vulnerabilidad y costes de adaptación.
