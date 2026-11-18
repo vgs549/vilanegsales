@@ -3,6 +3,7 @@ title: "The Age of Innocence We Live In"
 subtitle: "On Edith Wharton, climate change, and the politics of not knowing"
 author: "Vilane Gonçalves Sales"
 date: "2026-03-31"
+draft: true
 categories: [literature, climate change, climate justice, gender]
 image: cover.png
 ---

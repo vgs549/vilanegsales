@@ -3,6 +3,7 @@ title: "What Coastlines Are Allowed to Say"
 subtitle: "An Earth Day note"
 author: "Vilane Gonçalves Sales"
 date: "2026-04-23"
+draft: true
 categories: [Earth Day, tourism policy, coastal ecosystems, climate adaptation, governance, environmental policy]
 ---
 
